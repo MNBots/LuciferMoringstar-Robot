@@ -58,7 +58,7 @@ Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#c
 
 ### Support
 
-Join Our [Telegram Group](https://telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://telegram.dog/Mo_Tech_YT) For Updates.
+Join Our [Telegram Group](https://telegram.dog/Movienight_group) For Support/Assistance And Our [Channel](https://telegram.dog/Movie_Night_MN) For Updates.
 
 Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
