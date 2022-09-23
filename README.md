@@ -169,7 +169,7 @@ Do Fork And Star The Repository If You Liked It.
 
 `PICS` : (random pics support | separate multiple pictures by space) Get this value from :- [Click Here](https://telegram.dog/MT_TelegraPH_Bot)
 
-`SUPORT_CHAT` : Backup Support, With out @Mo_Tech_YT
+`SUPORT_CHAT` : Backup Support, With out @MN_Linksz
 
 ----
 ### 🤖 BotFather Command'S
